@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# ספי מתכנן מסלולים — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://safi-route-planner.zappy5.app
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com
 תכנון מסלול טיול משפחתי בהתאמה אישית עם ספי. צור חופשות משפחתיות מושלמות עם מסלולים מותאמים לילדים ולכל הגילאים.
 
 ### השירותים שלנו
-https://safi-route-planner.zappy5.app/services
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/services
 גלו את מגוון שירותי תכנון מסלול טיול משפחתי בהתאמה אישית של ספי. מטיולי טבע ועד חופשות חוף - נתכנן עבורכם את החופשה המושלמת.
 
 ### אודות
-https://safi-route-planner.zappy5.app/about
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/about
 הכירו את ספי - מומחים בתכנון מסלול טיול משפחתי בהתאמה אישית. למדו איך לתכנן חופשה משפחתית מושלמת עם המומחים שלנו.
 
 ### צור קשר
-https://safi-route-planner.zappy5.app/contact
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/contact
 צור קשר עם מומחי תכנון מסלול טיול משפחתי בהתאמה אישית של ספי. נתחיל לתכנן את החופשה המשפחתית המושלמת שלכם עוד היום.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://safi-route-planner.zappy5.app/privacy
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://safi-route-planner.zappy5.app/terms
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://safi-route-planner.zappy5.app/accessibility
+https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ספי מתכנן מסלולים
+ספי מתכנן מסלולים is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+- מתכנני חופשות משפחתיות
+
+## Industry
+תיירות ונסיעות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://safi-route-planner.zappy5.app/sitemap.xml
-- **Robots.txt**: https://safi-route-planner.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/robots.txt
