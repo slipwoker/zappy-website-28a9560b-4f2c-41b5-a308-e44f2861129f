@@ -1,57 +1,47 @@
-# ספי — Generative Engine Optimization Map
-
-> A תיירות ונסיעות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-28a9560b.zappy5.app
+https://example.com
 תכנון מסלול טיול משפחתי בהתאמה אישית עם ספי. צור חופשות משפחתיות מושלמות עם מסלולים מותאמים לילדים ולכל הגילאים.
 
 ### השירותים שלנו
-https://-28a9560b.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי תכנון מסלול טיול משפחתי בהתאמה אישית של ספי. מטיולי טבע ועד חופשות חוף - נתכנן עבורכם את החופשה המושלמת.
 
 ### אודות
-https://-28a9560b.zappy5.app/about
+https://example.com/about
 הכירו את ספי - מומחים בתכנון מסלול טיול משפחתי בהתאמה אישית. למדו איך לתכנן חופשה משפחתית מושלמת עם המומחים שלנו.
 
 ### צור קשר
-https://-28a9560b.zappy5.app/contact
+https://example.com/contact
 צור קשר עם מומחי תכנון מסלול טיול משפחתי בהתאמה אישית של ספי. נתחיל לתכנן את החופשה המשפחתית המושלמת שלכם עוד היום.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-28a9560b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-28a9560b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-28a9560b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ספי
-ספי is a business in the תיירות ונסיעות industry.
-
-## Target Audience
-- מתכנני חופשות משפחתיות
-
-## Industry
-תיירות ונסיעות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-28a9560b.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-28a9560b.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
