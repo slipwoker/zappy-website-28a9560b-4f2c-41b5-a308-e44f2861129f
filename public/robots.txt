@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-28a9560b-4f2c-41b5-a308.onrender.com/sitemap.xml
+Sitemap: https://safi-route-planner.zappy5.app/sitemap.xml
